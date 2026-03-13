@@ -1,6 +1,1 @@
-def main():
-    print("Hello from agent-study!")
-
-
-if __name__ == "__main__":
-    main()
+# 何か変更を加える場合はここに記述します
